@@ -1,6 +1,19 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aolingge/aolingge/main/assets/developer-cover.png" alt="Original decorative artwork for this project" width="100%" />
+</p>
+
 # Aolingge Community Health Defaults
 
 This special `.github` repository holds default community health files for repositories under `aolingge` that do not define their own templates.
+
+## Project guide
+
+| Area | Details |
+| --- | --- |
+| **For** | Contributors and maintainers working across Aolinge repositories. |
+| **Purpose** | Shared issue forms, pull-request checklists and funding metadata. |
+| **How to use** | Check the defaults below; individual repositories may provide their own templates. |
+| **Explore** | [Public project directory](https://github.com/aolingge) · [Template files](.github/) |
 
 ## What Belongs Here
 
